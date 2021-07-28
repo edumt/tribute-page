@@ -1,5 +1,7 @@
-Live preview:
-https://edumt.github.io/tribute-page/
+Simple tribute page utilizing only HTML and responsive CSS (media queries)
+
+Live preview:  
+https://edumt.github.io/tribute-page/  
 https://codepen.io/edumt/full/ZEKxGaq
 
 Based on:
